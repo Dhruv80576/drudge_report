@@ -1,16 +1,13 @@
-# drudge_report
+#  DRUDGE REPORT
+This application is a revamp of a website serving as a news platform.We have transformed the website into a fully functional application which retrives news from a an Application programming interface(API) and updated at realtime on the application.
+This application includes many functionalities like:
+# SEARCHING FOR NEWS
+# CATEGORIZATION OF NEWS
+# FETCHING NEWS ON USER DEMAND
+# NEWS SHARING
+It is a fully functional application of website # DRUDGE REPORT
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# TECH STACKS USED
+# Flutter
+# Api Integration
+# Postman
